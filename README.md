@@ -1,4 +1,5 @@
 ******Coffee Sales Dashboard – Excel Business Intelligence Project******
+
 Tool: Microsoft Excel (**Power Query**, **Pivot Tables**, **Pivot Charts**, **Slicers**)
 
 -Built a dynamic and interactive sales dashboard to analyze coffee product performance using Microsoft Excel.
